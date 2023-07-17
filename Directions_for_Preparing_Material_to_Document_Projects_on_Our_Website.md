@@ -6,7 +6,7 @@ Through meticulously recorded documentary texts, the black cube unfurls its prof
 
 My artwork tries to invite contemplation on themes of human resilience, empathy, and social responsibility. The installation challenges spectators to question their role in shaping narratives and confront the consequences of indifference. The black cube, hanging seemingly without rhyme or reason, becomes a poignant symbol of the complexities of human suffering and the powerful impact of granting voice and subjectivity to the marginalized.
 
-## General
+## Texts and theory
 
 - *theses project documentations* can be more extensive then semester projects
 - for *theses project documentations* consider attaching a PDF version of your work ( especially the written part ).
