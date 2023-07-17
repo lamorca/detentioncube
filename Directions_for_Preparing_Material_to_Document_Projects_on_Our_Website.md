@@ -1,8 +1,10 @@
-# Directions for Preparing Material to Document Projects on Our Website
+# Blacke Cube of Detention
 
-the following points should be understood as general directions and rules of thumb. if there is a good reason to ignore, override, or even disobey the rules … go ahead. this paper does not include hints on *how to* properly document projects.
+My name is Ulad Karotki and «Black Cube of Detention» is an art project of mine that combines documentary journalistic research, sound design and installation that revolves around a mysterious black cube suspended randomly in space. This enigmatic structure embodies darkness, enticing viewers to explore its depths. The installation serves as a vessel for an emotionally charged narrative, chronicling the harrowing experiences of Belarusians who endured brutality during interrogations, suffered in chilling conditions, torture and were unjustly incarcerated for extended periods.
 
-also find inspiration by looking at the documentation already published on the [Digital Media website](https://digitalmedia-bremen.de/projects/).
+Through meticulously recorded documentary texts, the black cube unfurls its profound purpose, amplifying the voices of those whose stories have been silenced by oppression. The viewers, confronted with a crucial choice, find themselves at a crossroads: delve into the infinite darkness of these individuals’ testimonies, thus giving them the agency and acknowledgment they deserve, or pass by with their emotions untouched, inadvertently perpetuating their entrapment in an unsightly cube.
+
+My artwork tries to invite contemplation on themes of human resilience, empathy, and social responsibility. The installation challenges spectators to question their role in shaping narratives and confront the consequences of indifference. The black cube, hanging seemingly without rhyme or reason, becomes a poignant symbol of the complexities of human suffering and the powerful impact of granting voice and subjectivity to the marginalized.
 
 ## General
 
