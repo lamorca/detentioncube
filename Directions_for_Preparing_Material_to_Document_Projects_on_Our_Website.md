@@ -37,28 +37,3 @@ Because of the difficulty in positioning the object in space during Hochultage-2
 First, I had to place the black cube on the ground. This was done due to structural issues and could have caused difficulties with interacting with the cube, but the new arrangement brought about other features and strengths of the project. Now the viewer was not just invited to stand or sit down to stick their head into the cube, but had to bend over and kneel. On the one hand such circumstances added religious connotations, but also prison connotations. Putting people on their knees as a sign of humiliation is a frequent habit of the Belarusian law enforcement system. 
 
 Moreover, by sticking the head into the cube, blood irreversibly starts to rush to the head, which induces the person to raise his head all the time, stopping stories and interrupting communication. 
-
-
-```
-## information    
-
-## text + images + videos    
-
-![aerosol-w-1](./website/aerosol-w-1.jpg)    
-
-Wir transferieren Systeme aus dem Physischem in den virtuellen Raum. Was passiert wenn dieser Vorgang umgekehrt wird. Aerosol ist ein Experiment das dies anhand einer Partikelsimulation untersucht. Das Faszinierende an so einem Systeme sind die emergenten Erscheinungen. Eine gespannte Stoff Fläche wird über ein Raster aus 25 Motoren in eine Landschaft verformt durch die Gravitation werden eine Menge von Stahlkugel in Bewegung versetzt.    
-
-![aerosol-w-2](./website/aerosol-w-2.jpg)    
-
-Man kann beobachten wie die Kugeln unterschiedlich Verhalten entwickeln. So gibt es beispielsweise Einzelgänger, die unaufhörlich über die Stofffläche rasen und nie zum Stillstand kommen. Gruppen die sich langsam bewegen und sich nur an Hügeln voneinander trennen oder von Rowdies auseinandergestoßen werden. Das Material wird Teil der Berechnung.    
-
-![aerosol-w-3](./website/aerosol-w-3.jpg)    
-
-![aerosol-w-4](./website/aerosol-w-4.jpg)    
-
-[Aerosol Video](https://vimeo.com/64266446)    
-```
-
----
-
-This document is available as a public document at [Directions for Preparing Material to Document Projects on Our Website](http://dm-hb.de/dmdfpmtdpoow).
