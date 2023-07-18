@@ -1,62 +1,46 @@
 # Blacke Cube of Detention
 
-My name is Ulad Karotki and «Black Cube of Detention» is an art project of mine that combines documentary journalistic research, sound design and installation that revolves around a mysterious black cube suspended randomly in space. This enigmatic structure embodies darkness, enticing viewers to explore its depths. The installation serves as a vessel for an emotionally charged narrative, chronicling the harrowing experiences of Belarusians who endured brutality during interrogations, suffered in chilling conditions, torture and were unjustly incarcerated for extended periods.
+- Category: Individualprojekt
+- Student/s: Uladzislau Karotki   
+- Course Title: Interaktion + Raum    
+- Lecturer/s: Dennis Paul, Ralf Baecker 
+- Year: SS 2022/23
 
-Through meticulously recorded documentary texts, the black cube unfurls its profound purpose, amplifying the voices of those whose stories have been silenced by oppression. The viewers, confronted with a crucial choice, find themselves at a crossroads: delve into the infinite darkness of these individuals’ testimonies, thus giving them the agency and acknowledgment they deserve, or pass by with their emotions untouched, inadvertently perpetuating their entrapment in an unsightly cube.
+«Black Cube of Detention» is an art project of mine that combines documentary journalistic research on torture in Belarusian prison, sound design and installation that revolves around a mysterious black cube suspended randomly in space. This enigmatic structure embodies darkness, enticing viewers to explore its depths. The installation serves as a vessel for an emotionally charged narrative, chronicling the harrowing experiences of Belarusians who endured brutality during interrogations, suffered in chilling conditions, torture and were unjustly incarcerated for extended periods.
+
+Through meticulously recorded documentary autofiction texts, the black cube unfurls its profound purpose, amplifying the voices of those whose stories have been silenced by oppression. The viewers, confronted with a crucial choice, find themselves at a crossroads: delve into the infinite darkness of these individuals’ testimonies, thus giving them the agency and acknowledgment they deserve, or pass by with their emotions untouched, inadvertently perpetuating their entrapment in an unsightly cube.
 
 My artwork tries to invite contemplation on themes of human resilience, empathy, and social responsibility. The installation challenges spectators to question their role in shaping narratives and confront the consequences of indifference. The black cube, hanging seemingly without rhyme or reason, becomes a poignant symbol of the complexities of human suffering and the powerful impact of granting voice and subjectivity to the marginalized.
 
 ## Texts and theory
 
-- *theses project documentations* can be more extensive then semester projects
-- for *theses project documentations* consider attaching a PDF version of your work ( especially the written part ).
+The initial starting idea for my project was to create a project that could describe in a non-trivial way for a European viewer the horrors of prison in my native Belarus. For this purpose, I decided to abandon straightforward forms, comprehending people's stories surrounded by a neutral form. For this purpose, I chose a cube made of a natural material - wood. 
 
-## Images + Photographs + Video
+The initial starting idea for my project was to create a project that could describe in a non-trivial way for a European viewer the horrors of prison in my native Belarus. For this purpose, I decided to abandon straightforward forms, comprehending people's stories surrounded by a neutral form. For this purpose, I chose a cube made of a natural material - wood.
 
-- **the quality of the photographs + videos is crucial for the quality of your documentation.**
-- please consider making use of one of our photostudios
-- an average of 3–5 images per project usually works fine
-- one image must be selected as the *key visual* and will appear as a thumbnail in preview. the *key visual* will always appear as the first thing in the project description.
-- images should be min **1024 px** in width and might be of varying height. a common aspect ratio for all images is to be favoured.
-- photographs should be color corrected ( especially so if they are *just* documenting objects, sculpture or installations ) i.e grey should be truely grey ( e.g (R127+G127+B127) in contrast to (R123+G147+B116) ) and colors should match the intended.
-- photographs should be geometry corrected ( for example the edges of a wall or a column are parallel to the edges of the photograph )
-- images should, with a few exceptions, never be fully white (R255+G255+B255). a maximum white of approximately **(R240+G240+B240)** usually works fine.
-- image files should be prefixed with a websafe version of the author’s initials and the project title ( for example a photograph of the project `baulücke` from lucas odahara would be named `lo-bauluecke-02.jpg` ).
-- JPG image format is prefered. always use very high compression quality.
-- videos are very welcome as project documentations. either send the original video file or send a vimeo or youtube link pointing to the video ( make sure you do not delete the video at some point in the future ). if you just send the original video file, it will be uploaded to the [DM vimeo account](https://vimeo.com/digitalemedienbremen).
-- prefered video format is MP4
-- always supply 2–3 stills for each video ( see images for format suggestions ).
+The black cube is a great symbol in itself: it refers to the Kaaba and Islam, and to Malevich and Lissitzky. Black itself absorbs other colors, in European culture it is perceived as a symbol of night, evil, darkness, the unknown and the terrifying.  The cube in turn is on the one hand an expression of pure form (only a circle is better), and suspended from the ceiling and with a chair underneath it, it also becomes a reference to a medium (the most obvious comparison is the television set), which through itself translates a certain text (understood broadly as in Roland Barthes).
 
-## Information + Text
+Various autobiographical texts and interviews given to people who were directly affected by the Belarusian prison system from 2020 to 2023 were used for the project. All of them are completely authentic, only specific names were removed, as well as local names of institutions and phenomena that are difficult to translate into English. The voices were recorded by me, as well as by another student from Belarus, whose father was imprisoned for some time. 
 
-- try to be concise in the first paragraph, the abstract, of your project. the abstract should not exceed 500 characters. later on there is room for more extensive explanations, but the first paragraph should give a good overview.
-- take note that the first sentence of the first paragraph will automatically be used as the project summary in the preview mode.
-- text is preferably delivered in [markdown](http://en.wikipedia.org/wiki/Markdown).
-- supply an english version of the project description; a german version is optional
-- if you have preferences regarding the positon of the images in relation to the text, please use the markdown to position the images in the text or use comments.
-- links to other websites are welcome ( e.g extensive project descriptions, appearences on blogs, or award website )
+The voices are occasionally interrupted by a hissing sound, reminiscent of the hissing of an old TV set. It can often stop a thought, take away pauses, or omit important parts of certain people's stories. It is an expression of human attention gradually getting used to pain and not seeing the difference in people's stories. This cotext should play especially well on EU viewers who are unfamiliar with the history, culture, and political regime of Belarus. Who perceive it only as a strange Soviet supplement to Russia. 
 
-## Social Media
+This palette of voices gradually merges into a stream of speech that becomes difficult to listen to. Because of the heaviness of the stories, because of the unpleasant hissing sound that keeps increasing, because of the complexity and de-automization of perception. 
 
-- There are *Digital Media Bremen* accounts on [Twitter](https://twitter.com/DM_BREMEN) and on [Instagram](https://www.instagram.com/digitalmediabremen). Via both channels new projects on the website get announced.
-- In case you have an Instagram account you can let us know about the name / handle of your account. Then you can get tagged when your project is announced.
-- If a video is part of your project documentation you can send a link to a downloadable short version <60sec of your video along with your documentation files. Otherwise your key visual will get posted as the announcement of your project.
-- All projects are posted announced using a similar scheme: `'The Transcriptions of Space' a project by Artem Stepanchuk is now featured on our website`
+One of my favorite philosophers, Alain Badiou, wrote that basically, a Truth is a particular set of statements and discourses which are set off by an Event, and follow from it. A Truth is always the "truth of a particular situation". This is what I believe. We choose how we form this truth, what we take from it. 
 
-## Exemplary Project Description ( in markdown )
+To do this, a sensor is placed inside the cube that detects when the head is inside the cube. When a person sits on a chair and puts his head into the cube, he inevitably encounters horrible, scary, somewhere even disgusting stories. About being beaten by a cop who talks calmly to his wife afterward, the horror of a sentence that tears life apart into before and after, the love of a spouse who sits in a cell. It is up to the visitor to choose whether to subjugate these voices and stories, because being at an exhibition in Europe you can always poke your head out of the unpleasant cube and go about your business. Making the voices silent. 
 
-in this exemplary description a series of images in a folder called `website` are referenced and placed in the text flow. the description also references a vimeo video.
+## Reality
+
+Because of the difficulty in positioning the object in space during Hochultage-2023, I had to make a few changes in its exposure. 
+
+First, I had to place the black cube on the ground. This was done due to structural issues and could have caused difficulties with interacting with the cube, but the new arrangement brought about other features and strengths of the project. Now the viewer was not just invited to stand or sit down to stick their head into the cube, but had to bend over and kneel. On the one hand such circumstances added religious connotations, but also prison connotations. Putting people on their knees as a sign of humiliation is a frequent habit of the Belarusian law enforcement system. 
+
+Moreover, by sticking the head into the cube, blood irreversibly starts to rush to the head, which induces the person to raise his head all the time, stopping stories and interrupting communication. 
+
 
 ```
 ## information    
-
-- Title: Aerosol    
-- Category: Semesterarbeit    
-- Student/s: Florian Born    
-- Course Title: Rauchwolken und Luftschlösser    
-- Lecturer/s: Andrea Sick, Dennis Paul    
-- Year: WS 2012/13
-- Awards: Hochschulpreis 2013
 
 ## text + images + videos    
 
